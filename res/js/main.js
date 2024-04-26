@@ -137,7 +137,7 @@ themeButton.addEventListener('click', () => {
 })
 
 /*==================== Page Details loading script ====================*/
-const jsonFileUrl = "../../data/app_url_check.json"; // Local file path
+const jsonFileUrl = "./../data/app_url_check.json"; // Local file path
 fetch(jsonFileUrl)
 .then(function(response){
     if (!response.ok) {
