@@ -1,0 +1,431 @@
+[
+
+    {
+    "URL":"https://vlg00005.vistcorp.ad.visteon.com/doc14A615/",
+    "Application":"14A615",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"0.234325",
+    "num_redirects":"1'",
+    "http_version":"1.1",
+    "last_verfied_time":"Fri Apr 26 09:23:00 2024"
+    },
+    
+    {
+    "URL":"https://jfrog.bangalore.visteon.com",
+    "Application":"Artifactory-Bangalore",
+    "'Total_Time":"1.344054",
+    "http_code":"200",
+    "status":"Available",
+    "num_redirects":"1'",
+    "http_version":"1.1",
+    "last_verfied_time":"Fri Apr 26 09:23:03 2024"
+    },
+    
+    {
+    "URL":"https://jfrog.chennai.visteon.com",
+    "Application":"Artifactory-Chennai",
+    "num_redirects":"1'",
+    "'Total_Time":"1.346645",
+    "http_code":"200",
+    "status":"Available",
+    "http_version":"1.1",
+    "last_verfied_time":"Fri Apr 26 09:23:06 2024"
+    },
+    
+    {
+    "URL":"https://jfrog.china.visteon.com",
+    "Application":"Artifactory-China",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"2.157568",
+    "num_redirects":"1'",
+    "http_version":"1.1",
+    "last_verfied_time":"Fri Apr 26 09:23:09 2024"
+    },
+    
+    {
+    "URL":"https://jfrog.glcc.visteon.com",
+    "Application":"Artifactory-GLCC",
+    "http_version":"1.1",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"0.045032",
+    "num_redirects":"1'",
+    "last_verfied_time":"Fri Apr 26 09:23:10 2024"
+    },
+    
+    {
+    "URL":"https://jlr.jfrog.visteon.com",
+    "Application":"Artifactory-JLR",
+    "http_version":"1.1",
+    "'Total_Time":"1.050438",
+    "http_code":"200",
+    "status":"Available",
+    "num_redirects":"1'",
+    "last_verfied_time":"Fri Apr 26 09:23:13 2024"
+    },
+    
+    {
+    "URL":"https://jfrog.mexico.visteon.com",
+    "Application":"Artifactory-Mexico",
+    "'Total_Time":"0.766906",
+    "http_code":"200",
+    "status":"Available",
+    "num_redirects":"1'",
+    "http_version":"1.1",
+    "last_verfied_time":"Fri Apr 26 09:23:15 2024"
+    },
+    
+    {
+    "URL":"https://jfrog.pune.visteon.com",
+    "Application":"Artifactory-Pune",
+    "http_version":"1.1",
+    "num_redirects":"1'",
+    "'Total_Time":"1.471457",
+    "http_code":"200",
+    "status":"Available",
+    "last_verfied_time":"Fri Apr 26 09:23:18 2024"
+    },
+    
+    {
+    "URL":"https://jfrog.slough.visteon.com",
+    "Application":"Artifactory-Slough",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"0.562194",
+    "num_redirects":"1'",
+    "http_version":"1.1",
+    "last_verfied_time":"Fri Apr 26 09:23:19 2024"
+    },
+    
+    {
+    "URL":"https://jfrog.sofia.visteon.com",
+    "Application":"Artifactory-Sofia",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"0.833646",
+    "num_redirects":"1'",
+    "http_version":"1.1",
+    "last_verfied_time":"Fri Apr 26 09:23:22 2024"
+    },
+    
+    {
+    "URL":"https://jfrog.wuhan.visteon.com",
+    "Application":"Artifactory-Wuhan",
+    "http_version":"1.1",
+    "num_redirects":"1'",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"3.158520",
+    "last_verfied_time":"Fri Apr 26 09:23:26 2024"
+    },
+    
+    {
+    "URL":"https://datax.visteon.com:8444",
+    "Application":"DataX",
+    "'Total_Time":"0.061867",
+    "http_code":"200",
+    "status":"Available",
+    "num_redirects":"0'",
+    "http_version":"1.1",
+    "last_verfied_time":"Fri Apr 26 09:23:27 2024"
+    },
+    
+    {
+    "URL":"http://dms.visteon.com:31000/xdm/",
+    "Application":"DMS-xdm",
+    "num_redirects":"0'",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"0.105546",
+    "http_version":"1.1",
+    "last_verfied_time":"Fri Apr 26 09:23:29 2024"
+    },
+    
+    {
+    "URL":"http://dms.visteon.com:8080/search",
+    "Application":"DMS-Web",
+    "http_version":"1.1",
+    "num_redirects":"1'",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"0.122275",
+    "last_verfied_time":"Fri Apr 26 09:23:30 2024"
+    },
+    
+    {
+    "URL":"http://gbc.visteon.com",
+    "Application":"GBC",
+    "http_version":"1.1",
+    "'Total_Time":"0.100447",
+    "http_code":"200",
+    "status":"Available",
+    "num_redirects":"0'",
+    "last_verfied_time":"Fri Apr 26 09:23:32 2024"
+    },
+    
+    {
+    "URL":"https://git.visteon.com",
+    "Application":"GIT",
+    "num_redirects":"1'",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"1.269473",
+    "http_version":"2",
+    "last_verfied_time":"Fri Apr 26 09:23:34 2024"
+    },
+    
+    {
+    "URL":"https://bsp-os.git.visteon.com",
+    "Application":"GIT-BSP-OS",
+    "http_version":"2",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"1.170805",
+    "num_redirects":"1'",
+    "last_verfied_time":"Fri Apr 26 09:23:37 2024"
+    },
+    
+    {
+    "URL":"https://blr.git.visteon.com",
+    "Application":"GIT-BLR",
+    "http_version":"2",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"1.175446",
+    "num_redirects":"1'",
+    "last_verfied_time":"Fri Apr 26 09:23:39 2024"
+    },
+    
+    {
+    "URL":"https://eu.git.visteon.com",
+    "Application":"GIT-eu",
+    "num_redirects":"2'",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"0.941534",
+    "http_version":"2",
+    "last_verfied_time":"Fri Apr 26 09:23:42 2024"
+    },
+    
+    {
+    "URL":"https://rtc-proj.git.visteon.com",
+    "Application":"GIT-rtc",
+    "num_redirects":"1'",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"1.139013",
+    "http_version":"2",
+    "last_verfied_time":"Fri Apr 26 09:23:44 2024"
+    },
+    
+    {
+    "URL":"https://jlr.git.visteon.com",
+    "Application":"GIT-JLR",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"1.111994",
+    "num_redirects":"1'",
+    "http_version":"2",
+    "last_verfied_time":"Fri Apr 26 09:23:47 2024"
+    },
+    
+    {
+    "URL":"https://customer.git.visteon.com",
+    "Application":"GIT-Customer",
+    "num_redirects":"1'",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"1.891484",
+    "http_version":"2",
+    "last_verfied_time":"Fri Apr 26 09:23:50 2024"
+    },
+    
+    {
+    "URL":"https://sofia.git.visteon.com",
+    "Application":"GIT-Sofia",
+    "num_redirects":"1'",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"0.778852",
+    "http_version":"2",
+    "last_verfied_time":"Fri Apr 26 09:23:52 2024"
+    },
+    
+    {
+    "URL":"http://git.china.visteon.com",
+    "Application":"GIT-China",
+    "http_version":"1.1",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"4.420655",
+    "num_redirects":"1'",
+    "last_verfied_time":"Fri Apr 26 09:23:58 2024"
+    },
+    
+    {
+    "URL":"http://git.wuhan.visteon.com",
+    "Application":"GIT-Wuhan",
+    "http_version":"2",
+    "'Total_Time":"7.047328",
+    "http_code":"200",
+    "status":"Available",
+    "num_redirects":"2'",
+    "last_verfied_time":"Fri Apr 26 09:24:06 2024"
+    },
+    
+    {
+    "URL":"https://chennai.git.visteon.com",
+    "Application":"GIT-Chennai",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"1.237423",
+    "num_redirects":"1'",
+    "http_version":"2",
+    "last_verfied_time":"Fri Apr 26 09:24:09 2024"
+    },
+    
+    {
+    "URL":"https://bangalore.git.visteon.com",
+    "Application":"GIT-Bangalore",
+    "http_version":"2",
+    "num_redirects":"1'",
+    "'Total_Time":"1.374187",
+    "http_code":"200",
+    "status":"Available",
+    "last_verfied_time":"Fri Apr 26 09:24:12 2024"
+    },
+    
+    {
+    "URL":"http://git.pune.visteon.com",
+    "Application":"GIT-Pune",
+    "http_version":"2",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"2.322404",
+    "num_redirects":"2'",
+    "last_verfied_time":"Fri Apr 26 09:24:15 2024"
+    },
+    
+    {
+    "URL":"https://glcc.git.visteon.com",
+    "Application":"GIT-GLCC",
+    "num_redirects":"1'",
+    "'Total_Time":"0.279605",
+    "http_code":"200",
+    "status":"Available",
+    "http_version":"2",
+    "last_verfied_time":"Fri Apr 26 09:24:17 2024"
+    },
+    
+    {
+    "URL":"http://jenkins-mfa2.sofia.visteon.com:8080/",
+    "Application":"Jenkins",
+    "http_version":"1.1",
+    "'Total_Time":"0.450210",
+    "http_code":"200",
+    "status":"Available",
+    "num_redirects":"0'",
+    "last_verfied_time":"Fri Apr 26 09:24:18 2024"
+    },
+    
+    {
+    "URL":"http://gbc.visteon.com/gbclite/controller/home",
+    "Application":"GBCLite",
+    "num_redirects":"1'",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"0.264716",
+    "http_version":"1.1",
+    "last_verfied_time":"Fri Apr 26 09:24:20 2024"
+    },
+    
+    {
+    "URL":"https://mpnr.visteon.com:8443/MPNR/",
+    "Application":"MPNR",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"0.203194",
+    "num_redirects":"0'",
+    "http_version":"1.1",
+    "last_verfied_time":"Fri Apr 26 09:24:21 2024"
+    },
+    
+    {
+    "URL":"http://testresults.svat.visteon.com",
+    "Application":"Provetech",
+    "http_version":"1.1",
+    "num_redirects":"0'",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"0.880966",
+    "last_verfied_time":"Fri Apr 26 09:24:24 2024"
+    },
+    
+    {
+    "URL":"https://kw.group1.visteon.com:8443/review/insight-review.html",
+    "Application":"Klockwork1",
+    "http_version":"1.1",
+    "num_redirects":"0'",
+    "'Total_Time":"0.479280",
+    "http_code":"200",
+    "status":"Available",
+    "last_verfied_time":"Fri Apr 26 09:24:25 2024"
+    },
+    
+    {
+    "URL":"https://kw.group2.visteon.com:8443/review/insight-review.html",
+    "Application":"Klockwork2",
+    "'Total_Time":"0.469513",
+    "http_code":"200",
+    "status":"Available",
+    "num_redirects":"0'",
+    "http_version":"1.1",
+    "last_verfied_time":"Fri Apr 26 09:24:27 2024"
+    },
+    
+    {
+    "URL":"https://kw.group3.visteon.com:8443/review/insight-review.html",
+    "Application":"Klockwork3",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"0.488753",
+    "num_redirects":"0'",
+    "http_version":"1.1",
+    "last_verfied_time":"Fri Apr 26 09:24:29 2024"
+    },
+    
+    {
+    "URL":"https://kw.group4.visteon.com:8443/review/insight-review.html",
+    "Application":"Klockwork4",
+    "'Total_Time":"0.516074",
+    "http_code":"200",
+    "status":"Available",
+    "num_redirects":"0'",
+    "http_version":"1.1",
+    "last_verfied_time":"Fri Apr 26 09:24:31 2024"
+    },
+    
+    {
+    "URL":"https://kw.group5.visteon.com:8443/review/insight-review.html",
+    "Application":"Klockwork5",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"1.089676",
+    "num_redirects":"0'",
+    "http_version":"1.1",
+    "last_verfied_time":"Fri Apr 26 09:24:33 2024"
+    },
+    
+    {
+    "URL":"http://vbuyer.visteon.com/",
+    "Application":"vbuyer",
+    "num_redirects":"0'",
+    "http_code":"200",
+    "status":"Available",
+    "'Total_Time":"0.090140",
+    "http_version":"1.1",
+    "last_verfied_time":"Fri Apr 26 09:24:34 2024"
+    }
+    ]

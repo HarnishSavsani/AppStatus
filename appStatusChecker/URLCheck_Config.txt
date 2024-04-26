@@ -1,0 +1,10 @@
+https://datax.visteon.com:8444,DataX
+https://mpnr.visteon.com:8443/MPNR/,MPNR
+http://gbc.visteon.com/,GBC
+http://gbc.visteon.com/gbclite/controller/home,GBCLite
+http://vbuyer.visteon.com/,vbuyer
+http://dms.visteon.com:31000/xdm/,DMS-xdm
+http://dms.visteon.com:8080/search/,DMS-Web
+https://vlg00005.vistcorp.ad.visteon.com/doc14A615/,14A615
+http://testresults.svat.visteon.com,Provetech
+http://jenkins-mfa2.sofia.visteon.com:8080/,Jenkins
