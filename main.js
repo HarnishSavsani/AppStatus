@@ -215,19 +215,28 @@ fetch(jsonFileUrl)
 /*=====================================Smooth Scrolling Website ==========================================*/
 // Smooth scroll function
 function smoothScroll() {
-  const scrollStep = 1; // Adjust the scroll speed as needed
-  const scrollInterval = setInterval(() => {
-    window.scrollBy({
-      top: scrollStep,
+  const scrollStep = 0.5; // Adjust the scroll speed as needed
+  const windowHeight = window.innerHeight;
+  const scrollHeight = document.body.offsetHeight;
+  let currentPosition = window.scrollY;
+
+  function scroll() {
+    currentPosition += scrollStep;
+    window.scrollTo({
+      top: currentPosition,
       behavior: 'smooth'
     });
 
-    // Stop scrolling when reaching the bottom of the page
-    if (window.innerHeight + window.scrollY >= document.body.offsetHeight) {
-      clearInterval(scrollInterval);
+    // Check if we've reached the bottom of the page
+    if (currentPosition + windowHeight >= scrollHeight) {
       scrollToTop(); // Call scrollToTop() here
+    } else {
+      requestAnimationFrame(scroll);
     }
-  }, 1); // Scroll every 1 millisecond (adjust as needed)
+  }
+
+  // Start smooth scrolling
+  scroll();
 }
 
 // Start smooth scrolling when the page loads
@@ -239,7 +248,7 @@ function scrollToTop() {
     top: 0,
     behavior: 'smooth'
   });
-  
+
   // Restart smooth scrolling after scrolling to top
   setTimeout(() => {
     smoothScroll();
