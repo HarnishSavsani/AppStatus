@@ -505,6 +505,7 @@ select {
 
     .change-theme {
         margin: 0;
+        padding-left: 70px;
     }
 
     .services__container {
