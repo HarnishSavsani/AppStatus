@@ -152,28 +152,12 @@ img {
 /* Style for individual panels for Unavailable apps */
 .panel-unavailable {
     flex-basis: calc(25% - 20px); /* Adjust the width based on your layout */
-    margin: 10px;
-    padding: 20px;
+    margin: 7.5px;
+    padding: 10px;
     background-color: #f1bcb8;
     border: 1px solid #3f0707;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-/* Style for links inside the Unavailable panels */
-.panel-unavailable a {
-    font-size: --var(h3-font-size);
-    font-weight: bolder;
-    color: #3f0707;
-    margin: 0;
-}
-
-/* Style for text inside the Unavailable panels */
-.panel-unavailable p {
-    font-size: 8px;
-    line-height: 1.5;
-    color: #333;
-    margin: 0;
 }
 
 /* Style for individual panels for Available apps */
@@ -187,13 +171,29 @@ img {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
+/* Style for links inside the Unavailable panels */
+.panel-unavailable a {
+    font-size: --var(h3-font-size);
+    font-weight: bolder;
+    line-height: 1.5;
+    color: #3f0707;
+    margin: 0;
+}
 
 /* Style for links inside the Unavailable panels */
 .panel-available a {
     font-size: --var(h3-font-size);
-	font-weight: bolder;
+    font-weight: bolder;
     line-height: 1.5;
     color: #067427;
+    margin: 0;
+}
+
+/* Style for text inside the Unavailable panels */
+.panel-unavailable p {
+    font-size: 8px;
+    line-height: 1.5;
+    color: #333;
     margin: 0;
 }
 
