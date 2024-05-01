@@ -211,3 +211,37 @@ fetch(jsonFileUrl)
     `;
     document.querySelector("#data-output").innerHTML = errOut;
 });
+
+/*=====================================Smooth Scrolling Website ==========================================*/
+// Smooth scroll function
+function smoothScroll() {
+  const scrollStep = 1; // Adjust the scroll speed as needed
+  const scrollInterval = setInterval(() => {
+    window.scrollBy({
+      top: scrollStep,
+      behavior: 'smooth'
+    });
+
+    // Stop scrolling when reaching the bottom of the page
+    if (window.innerHeight + window.scrollY >= document.body.offsetHeight) {
+      clearInterval(scrollInterval);
+      scrollToTop(); // Call scrollToTop() here
+    }
+  }, 1); // Scroll every 1 millisecond (adjust as needed)
+}
+
+// Start smooth scrolling when the page loads
+window.addEventListener('load', smoothScroll);
+
+// Scroll to top function
+function scrollToTop() {
+  window.scrollTo({
+    top: 0,
+    behavior: 'smooth'
+  });
+  
+  // Restart smooth scrolling after scrolling to top
+  setTimeout(() => {
+    smoothScroll();
+  }, 1000); // Wait for scrolling to top to complete before restarting
+}
